@@ -14,7 +14,7 @@
 🌍 Empowering Africa through **AI**, **XR**, **Education**, and **Sustainability**  
 🎓 Mechanical & Industrial Engineer | 🇪🇹 Tech Policy Advocate | 🌐 Global Youth Leader  
 
-<img src="https://media.giphy.com/media/xT4uQulxzV39haRFjG/giphy.gif" width="100%" alt="Futuristic tech gif"/>
+<img src="https://drive.google.com/file/d/1SzRFMUfhcOS0izR91gUUqb528D3orhof/view?usp=drive_link" width="100%" alt="Futuristic tech gif"/>
 
 ---
 
