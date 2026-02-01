@@ -54,22 +54,7 @@
 </p>
 <br/>
 
-<!-- ANIMATED STATS SECTION -->
-## 📊 Activity Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[aelaf-git]&show_icons=true&theme=radical&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[aelaf-git]&layout=compact&theme=radical" height="180em" />
-</div>
 
-<br/>
-
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/[aelaf-git]/[aelaf-git]/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
-
-<br/>
 
 ---
 ### 📂 Featured Links
@@ -78,15 +63,18 @@
 |------------|--------|
 | 🎮 Unity Games | [play.unity.com/user/ff473121...](https://play.unity.com/en/user/ff473121-9e13-4f5b-b686-c97bef554851) |
 | 📜 Certificates | [View My Credentials](https://drive.google.com/drive/folders/1lx7lJ6LAaM68KUXUaQsixoEqHOZQkRls?usp=drive_link) |
-| 🔗 LinkedIn | [linkedin.com/in/aelaf-eskindir-abebe](https://www.linkedin.com/in/aelaf-eskindir-abebe-940a27235/) |
-| 🌐 Website | [aztechnologies.org](https://aztechnologies.org) |
 
 ---
 
-### 💬 Let's Connect!
+<!-- CONTACT SECTION -->
+## 📬 Let's Collaborate
+<p align="left">
+  <a href="https://linkedin.com/in/aelaf-eskindir-abebe-940a27235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:[aelafeskindir124@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-```yaml
-📧 Email: aelafeskindir@aztechnologies.org  
-📞 Phone: +251 96 433 6078  
-🐙 GitHub: @aelaf-git  
-🌍 Addis Ababa, Ethiopia
+---
+<div align="center">
+  <sub>Last updated: Feb 2026 • Powered by Curiosity and Coffee ☕</sub>
+</div>
+
