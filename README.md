@@ -54,6 +54,22 @@
 </p>
 
 <br/>
+<!-- ANIMATED STATS SECTION -->
+## 📊 Activity Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[aelaf-git]&show_icons=true&theme=radical&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[aelaf-git]&layout=compact&theme=radical" height="180em" />
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/[aelaf-git]/[aelaf-git]/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
+
+<br/>
 
 ---
 ### 📂 Featured Links
