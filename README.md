@@ -1,56 +1,61 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200px">
+<!-- HEADER SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Hi,%20I'm%20a%20Full%20Stack%20AI%20Expert&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;AI+Agent+%26+LLM+Specialist;Automation+%26+Workflow+Architect;Building+The+Future+of+Software" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- ABOUT ME SECTION -->
+## 🚀 About Me
+- 🤖 **AI Specialist:** Building stateful, multi-agent systems with **LangGraph** and **LangChain**.
+- 🛠 **Full Stack Maven:** Seamlessly moving between **React** frontends and **Django/Node** backends.
+- ⚙️ **Automation Expert:** Streamlining deployments with **Docker** and optimizing AI inference with **Groq**.
+- 🎮 **Game Dev Enthusiast:** Crafting immersive experiences in **Unity** with C#.
+- ⚡ **Performance Obsessed:** Writing high-performance code in **Go**, **C++**, and **C#**.
+
+<br/>
+
+<!-- TECH STACK CATEGORIES -->
+## 🛠 My Tech Arsenal
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cs,cpp,go,php" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F0FF&size=30&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Aelaf+Eskindir!;AI+%7C+XR+%7C+Space+%7C+Youth+Innovation+Leader;Building+Africa%E2%80%99s+Future+with+Technology" />
-</h1>
+### 🧠 AI & Machine Learning (The Brains)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-f55036?style=for-the-badge&logo=groq&logoColor=white" />
+</p>
+
+### 🌐 Web Development (Frontend & Backend)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,nodejs,express,django" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+</p>
+
+### 🗄️ Database & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🔧 Tools, DevOps & Game Engines
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,unity,vscode" />
+</p>
+
+<br/>
 
 ---
-
-### 🚀 About Me
-
-👨‍💻 Founder & CEO of **[AZ Technologies](https://aztechnologies.org)**  
-🌍 Empowering Africa through **AI**, **XR**, **Education**, and **Sustainability**  
-🎓 Mechanical & Industrial Engineer | 🇪🇹 Tech Policy Advocate | 🌐 Global Youth Leader  
-
-<img src="https://www.canva.com/design/DAGnn2SY3w0/yZPlWwqr4wgu9EtNPhLQjQ/edit?utm_content=DAGnn2SY3w0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" alt="Futuristic tech gif"/>
-
----
-
-### 🛠️ My Toolbox
-
-![Python](https://img.shields.io/badge/Python-3c9dff?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-![NASA GMAT](https://img.shields.io/badge/NASA%20GMAT-Orbit-FF5F6D?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-
----
-
-### 🔭 Current Projects
-
-- 🌐 **Virtual Labs for STEM Education**  
-- 🗺️ **VR Tourism Simulations** (with Mastercard, Bole Intl. Airport)  
-- 🧠 **AI-Powered Transparency Tools**  
-- 🏙️ **Real Estate XR Platforms**  
-- 🚀 **SpaceTech & Open Science Advocacy**
-
----
-
-### 🌍 Global Roles & Recognition
-
-- 🇪🇹 Director, AZ Technologies  
-- 🌱 EU Youth Sounding Board – Green Deal Committee  
-- 🌐 Technology Head, Ethiopian BRICS Youth Association  
-- 🏅 Arizona State President’s Global Engagement Award  
-- 🎤 World Youth Festival 2024 Presenter  
-- 🛰️ G20 Simulation Facilitator @ Indian Embassy Addis Ababa
-
----
-
 ### 📂 Featured Links
 
 | 💡 Category | 🔗 Link |
