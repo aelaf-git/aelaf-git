@@ -36,14 +36,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🔗 Automation & Workflow Orchestration
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
 ### 🌐 Full Stack Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,nodejs,express,django" />
@@ -56,11 +48,10 @@
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🔧 Tools & Game Engines
+### 🔧 Tools, DevOps & Game Engines
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,unity,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,git,unity,vscode,postman,figma,linux,n8n" />
 </p>
-
 <br/>
 
 <!-- ANIMATED STATS SECTION -->
