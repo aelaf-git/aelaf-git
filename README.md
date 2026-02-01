@@ -51,10 +51,9 @@
 ### 🔧 Tools, DevOps & Game Engines
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,unity,vscode,postman,figma,linux,n8n" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 <br/>
-
-
 
 ---
 ### 📂 Featured Links
