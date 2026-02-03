@@ -38,7 +38,7 @@
 
 ### 🌐 Full Stack Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,nodejs,express,django,threejs" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 </p>
 
